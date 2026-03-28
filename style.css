@@ -19,8 +19,8 @@ width:70%;
 
 button{
 padding:8px;
-background:green;
-color:white;
+background:rgb(0, 128, 96);
+color:rgb(255, 255, 255);
 border:none;
 cursor: pointer;
 }
